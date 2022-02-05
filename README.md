@@ -1,3 +1,25 @@
+#TEXTUTILS
+It is a text utility app built using react js. It is a basic text utility tool which performs certain operations on the text as per the user.
+It also has a dark mode enable button which can be used to convert the UI into dark mode as preference.
+
+##Snapshots 😎
+
+
+![textutils1](https://user-images.githubusercontent.com/68144680/152658938-a4087a05-e9ed-4f5b-bb52-3db74b37db5e.png)
+
+
+![textutils2](https://user-images.githubusercontent.com/68144680/152658944-fa6fe539-6a8f-45a2-b6f1-79ae51c265a1.png)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
